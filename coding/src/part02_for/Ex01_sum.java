@@ -2,7 +2,7 @@ package part02_for;
 
 import java.util.Scanner;
 
-// A+B를 여러 번 출력 (11022번)
+// A+B를 여러 번 출력 (백준 11022번)
 // 1) 케이스의 개수 T 입력
 // 2) T만큼 두 정수 입력 (0<A,B<10)
 // 3) 두 정수의 합 출력
