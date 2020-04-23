@@ -5,7 +5,7 @@ import java.util.Scanner;
 // 문자열 대칭
 // 1) 문자열을 입력받고
 // 2) 문자열이 대칭이면 true, 대칭이 아니면 false 출력
-public class ex03_symmetry {
+public class Ex03_symmetry {
 
 	static Scanner sc = new Scanner(System.in);
 

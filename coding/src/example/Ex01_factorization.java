@@ -7,7 +7,7 @@ import java.util.Scanner;
 // 2) 결과 값이 입력 받은 숫자 = x * y 형식으로  ex) 24 = 2 * 2 * 2 * 3
 // 3) 0이 입력 되면 프로그램이 out 되도록
 // 4) 결과 값이 나온다면 다시 위 과정 반복
-public class ex01_factorization {
+public class Ex01_factorization {
 
 	static Scanner sc = new Scanner(System.in);
 

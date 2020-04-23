@@ -5,7 +5,7 @@ package example;
 // 예를 들어, 주어진 정수가 [6, 10, 2]라면 [6102, 6210, 1062, 1026, 2610, 2106]를 만들 수 있고, 이 중 가장 큰 수는 6210입니다.
 // numbers => {6, 10, 2}
 // return => 6210
-public class ex02_max {
+public class Ex02_max {
 
 	public static void main(String[] args) {
 
